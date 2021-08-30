@@ -7,6 +7,7 @@ use Harimayco\Menu\Models\Menus;
 
 class AdminController extends Controller
 {
+    
     /**
      * Display a listing of the resource.
      *
